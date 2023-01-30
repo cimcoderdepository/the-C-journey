@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - a program that add two integers.
+ *
+ * Return: 0 at success
+*/
+
 int main(void)
 {
 	int num1 = 0, num2 = 0, add_num = 0;
